@@ -1,0 +1,31 @@
+{
+  "name": "mocha-chai-project",
+  "version": "1.0.0",
+  "description": "This is a sample Mocha Chai testing project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufshakeel/mocha-chai-project.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Yusuf Shakeel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusufshakeel/mocha-chai-project/issues"
+  },
+  "homepage": "https://github.com/yusufshakeel/mocha-chai-project#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
